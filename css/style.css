@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+.common_btn{
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+#header{
+    padding: 30px 3rem;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg)
+}
+
+#header .logo{
+    float: left;
+}
+
+.logo a{
+    color: #ffc800;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+#header .navbar{
+    float: right;
+}
+
+.link{
+    color: #fff;
+    font-size: 18px;
+}
+
+.navbar a{
+    margin-left: 20px;
+}
+
+#First{
+    text-align: center;
+    background-image:url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+    padding: 13rem 0;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#First h3{
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+#First h1{
+    color: #fff;
+    font-size: 80px;
+    margin-bottom: 40px;
+}
+
+#First a{
+    background-color: #ffc800;
+}
+
+#First a:hover{
+    color: #fff;
+    background-color: #b19221;
+    padding: 20px 50px;
+}
+
+#Second{
+    text-align: center;
+    padding: 5rem 0;
+}
+
+#Second h2{
+    font-size: 2rem;
+    color: #212529;
+}
+
+#Second h3{
+    color: #212529;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+
+#Third{
+    text-align: left;
+    background-color: #fff;
+    padding: 1rem 0;
+}
+
+#Third h2{
+    font-size: 2rem;
+    color: #212529;
+}
+
+#Third p{
+    color: #212529;
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+#Fourth{
+    text-align: left;
+    background-color: #fff;
+    padding: 2rem 0;
+}
+
+#Fourth h2{
+    font-size: 2rem;
+    color: #212529;
+}
+
+#Fourth p{
+    color: #212529;
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+#Fifth{
+    text-align: left;
+    background-color: #fff;
+    padding: 2rem 0;
+}
+
+#Fifth h2{
+    font-size: 2rem;
+    color: #212529;
+}
+
+#Fifth p{
+    color: #212529;
+    font-size: 1.25rem;
+    margin-bottom: 4rem;
+}
+
+#Sixth{
+    text-align: center;
+    padding: 7rem 0;
+}
+
+#Sixth h2{
+    font-size: 2rem;
+    color: #212529;
+}
+
+#Sixth p{
+    color: #212529;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+#Browse{
+    padding: 5rem;
+    background-color: #F2F6FC;
+    overflow: auto;
+}
+
+.br-text{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto 50px;
+}
+
+.br-text h2{
+    color: #212529;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.br-text h3{
+    color: #69707a;
+    font-size: 18px;
+}
+
+.br-all .box{
+    width: 30%;
+    float: left;
+    margin: 0 1% 50PX;
+    border-radius: 5px;
+}
+
+.br-all .box .top img{
+    width: 100%;
+    vertical-align: bottom;
+    border-radius: 7px 7px 0 0;
+}
+
+.br-all .box .bottom{
+    text-align: center;
+    background-color: #fff;
+    padding: 13px 0;
+    border-radius: 0 0 7px 7px;
+}
